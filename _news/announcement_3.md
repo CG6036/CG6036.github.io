@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-:star2 A poster submitted to IEEE PacificVis 2024 (@ Tokyo, Japan) has been selected as the best poster.
+A poster submitted to IEEE PacificVis 2024 (@ Tokyo, Japan) has been selected as the best poster.
 ("Revlio: A Lifelog Visualization System with Google My Activity")

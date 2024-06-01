@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-:star2 A paper submitted to 84th Annual Meeting of the Academy of Management (@ Chicago, Illinois) has been accepted.
+A paper submitted to 84th Annual Meeting of the Academy of Management (@ Chicago, Illinois) has been accepted.
 (“Not All Doom and Gloom: ChatGPT, Knowledge Diversity, and Style Similarity in Online Communities")
