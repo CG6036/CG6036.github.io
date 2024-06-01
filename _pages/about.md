@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://gsds.snu.ac.kr'>Graduate School of Data Science @ Seoul National University</a>.
 
 profile:
   align: right
