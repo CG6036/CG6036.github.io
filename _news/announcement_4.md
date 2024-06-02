@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 A paper submitted to 2024 INFORMS Annual Meeting (@ Seattle, Washington) has been accepted.
-(“Not All Doom and Gloom: ChatGPT, Knowledge Diversity, and Style Similarity in Online Communities")
+(\“Not All Doom and Gloom: ChatGPT, Knowledge Diversity, and Style Similarity in Online Communities\")
