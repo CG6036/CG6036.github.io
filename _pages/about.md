@@ -18,8 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Chan Gyu Lee is a Master’s Student in the Graduate School of Data Science at [Seoul National University](https://en.snu.ac.kr). He is currently affiliated with the [ViBA Lab](https://www.snu-viba.com) and is conducting research under the supervision of Professor [Hyunwoo Park](https://hyunwoopark.com). Before joining SNU, he worked with several startups, including [ImpactiveAI](http://en.impactive-ai.com), in the role of data scientist. He earned a B.S. in AI Convergence and Management in [Handong Global University](https://www.handong.edu/eng), garduating with academic distinction, magna cum laude.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+His research interests include business and data science with an emphasis on `operations research`, `causal discovery`, and `data visualization`. In addition, he has developed a keen interest in the dissemination and impact of advanced technologies on minorities, with a particular focus on AI ethics and safety.
