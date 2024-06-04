@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="#">Graduate School of Data Science @ Seoul National University</a>.
+subtitle: <a href="https://gsds.snu.ac.kr">Graduate School of Data Science @ Seoul National University</a>.
 
 profile:
   align: right
