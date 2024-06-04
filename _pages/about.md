@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>:telephone_receiver +82 10 8505 7267</p>
-    <p>:email changyu.lee@snu.ac.kr</p>
-    <p>:office 1, Gwanak-ro, Gwanak-gu,</p>
-    <p>   Seoul, Republic of Korea</p>
+    <p>Phone: +82 10 8505 7267</p>
+    <p>Email: changyu.lee@snu.ac.kr</p>
+    <p>Address: 1, Gwanak-ro, Gwanak-gu,</p>
+    <p>&nbsp;&nbsp;Seoul, Republic of Korea</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
