@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper submitted to 2024 INFORMS Annual Meeting (@ Seattle, Washington) has been accepted.
+A paper submitted to [2024 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/) (@ Seattle, Washington) has been accepted.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper submitted to the International Journal of Intelligent Systems and Applications in Engineering has been accepted.
+A paper submitted to the `International Journal of Intelligent Systems and Applications in Engineering` has been accepted.
